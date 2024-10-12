@@ -1,3 +1,6 @@
+// SINGULAR VALUE DECOMPOSITION ETHOD WAS USED IN THIS PROJECT TO REDUCE THE DIMENSION OF IMAGE MATRIX
+
+
 #include<iostream>
 #include<cmath>
 using namespace std;
